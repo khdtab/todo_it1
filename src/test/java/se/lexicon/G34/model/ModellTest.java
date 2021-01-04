@@ -1,4 +1,4 @@
-package Model;
+package se.lexicon.G34.model;
 
 import junit.framework.TestCase;
 
